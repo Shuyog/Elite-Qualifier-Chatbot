@@ -2,7 +2,7 @@ import time
 print("To aCceSs ThIs ChatbOt, eNter tHe PaSSword. hint: capitalization")
 
 guess = input("Password: ")
-password = '1'
+password = 'TCSTICONHPSS'
 
 while guess != password:
   print('Incorrect password.')
